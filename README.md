@@ -18,9 +18,10 @@
 - **Custom Huffman Coding** algorithm implementation
 
 ## 📸 Screenshots
-
-> _Insert screenshots of your GUI here (Compression Window, Dark Mode, Output Pop-up, etc.)_
-
+![image](https://github.com/user-attachments/assets/776f9e34-0bfe-4ee0-b487-122267b259ba)
+![image](https://github.com/user-attachments/assets/90909364-4487-41db-a8e1-7c648e19c8f3)
+![image](https://github.com/user-attachments/assets/60100630-3edf-4c80-8b57-99c040a65f26)
+![image](https://github.com/user-attachments/assets/59189f1f-22f0-454a-afc0-1b05c9f3fd69)
 ## 📂 How to Use
 
 ### 🖥️ Run the Tool
