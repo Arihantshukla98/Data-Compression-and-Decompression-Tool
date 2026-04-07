@@ -79,7 +79,6 @@ DataSankuchak/
 
 ## 🧑‍💻 Author
 
-**Arihant Shukla**  
-**Bhavya Saini**  
+**Arihant Shukla**   
 B.Tech CSE | New Horizon College  
 
